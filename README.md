@@ -12,4 +12,5 @@ A growth mindset is just about praising and rewarding effort.
 |----------|-------------  |
 | growthmindset |https://replit.com/@MohammadALAbbad/reading-notes#growthmindset.md| 
 | learningmarkdown |https://replit.com/@MohammadALAbbad/reading-notes#learningmarkdown.md|   
-| git |https://replit.com/@MohammadALAbbad/reading-notes#git.md|  
+| git |(https://replit.com/@MohammadALAbbad/reading-notes#git.md|
+|      read3)    |      (https://mohammad-al-abbadi.github.io/reading-notes/read3)         |
