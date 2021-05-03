@@ -1,3 +1,6 @@
+*hello, i'm mohammad al-abbadi, i have joined this course to gain more programming skills*
+
+
 # reading-notes
 *this is italic*
 >this is quote 
@@ -5,11 +8,11 @@
 --- hello ---
 
 
-| Tables   |      Are      |  Cool |
-|----------|-------------  |------ |
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| name     |      links    |  
+|----------|-------------  |
+| col 1 is |  left-aligned | 
+| col 2 is |    centered   |   
+| col 3 is | right-aligned |  
 
 ## hello
 ### hello
