@@ -1,3 +1,5 @@
+###Code 201 Reading Notes
+
 *hello, i'm mohammad al-abbadi, i have joined this course to gain more programming skills*
 
 >I already have it, and I always have. People often confuse a growth mindset with being flexible or open-minded or with having a positive outlook — qualities they believe they’ve simply always had. My colleagues and I call this a false growth mindset. Everyone is actually a mixture of fixed and growth mindsets, and that mixture continually evolves with experience. A “pure” growth mindset doesn’t exist, which we have to acknowledge in order to attain the benefits we seek.
